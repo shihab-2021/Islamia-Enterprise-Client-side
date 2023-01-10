@@ -6,13 +6,13 @@ import { FiMail } from "react-icons/fi";
 
 const Contact = () => {
     return (
-      <div id='contact'>
+      <div id="contact">
         <div
           style={{ color: "goldenrod" }}
           className="container mx-auto px-2 person-name pb-40"
         >
-            <h1 className='text-7xl pt-40 underline text-center'>Contact</h1>
-          <div className='flex flex-col items-center text-center justify-center'>
+          <h1 className="text-7xl pt-40 underline text-center">Contact</h1>
+          <div className="flex flex-col items-center text-center justify-center">
             <div className=" pt-24 pb-5">
               <h1 className="text-4xl flex align-center">
                 <span
@@ -69,7 +69,7 @@ const Contact = () => {
                   style={{ color: "goldenrod" }}
                   className="text-4xl self-center pl-4"
                 >
-                  Bar Awlia, Sitakund, <br /> Chittagong, Bangladesh
+                  Bhatiary, Sitakund, <br /> Chittagong, Bangladesh
                 </span>
               </h1>
             </div>
